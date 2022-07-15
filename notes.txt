@@ -1,2 +1,0 @@
-1. note sure how to insert foreign key into db
-
